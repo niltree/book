@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Home](README.md)
+* [Niltree Browser](README.md)
 * [Five Minute Guide](guide.md)
 
