@@ -2,5 +2,4 @@
 
 * [Home](README.md)
 * [Five Minute Guide](five-minute-guide.md)
-* [About](about.md)
 
