@@ -2,7 +2,7 @@
 description: 'Niltree Browser is a Javascript web browser for AR, VR, and WebGL sites.'
 ---
 
-# Niltree Documentation
+# Home
 
 Get started with Niltree with [the five minute guide](five-minute-guide.md).
 

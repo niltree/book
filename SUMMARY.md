@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Niltree Documentation](README.md)
+* [Home](README.md)
 * [Five Minute Guide](five-minute-guide.md)
-* About
+* [About](about.md)
 
